@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DDamit-common" />
+        <module name="DDamit-dto" />
+        <module name="DDamit-mapper" />
+        <module name="DDamit-service" />
+        <module name="DDamit-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DDamit" target="1.8" />
+      <module name="DDamit-common" target="1.8" />
+      <module name="DDamit-dto" target="1.8" />
+      <module name="DDamit-mapper" target="1.8" />
+      <module name="DDamit-service" target="1.8" />
+      <module name="DDamit-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

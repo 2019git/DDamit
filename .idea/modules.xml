@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DDamit.iml" filepath="$PROJECT_DIR$/DDamit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DDamit-common/DDamit-common.iml" filepath="$PROJECT_DIR$/DDamit-common/DDamit-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DDamit-dto/DDamit-dto.iml" filepath="$PROJECT_DIR$/DDamit-dto/DDamit-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DDamit-mapper/DDamit-mapper.iml" filepath="$PROJECT_DIR$/DDamit-mapper/DDamit-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DDamit-service/DDamit-service.iml" filepath="$PROJECT_DIR$/DDamit-service/DDamit-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DDamit-web/DDamit-web.iml" filepath="$PROJECT_DIR$/DDamit-web/DDamit-web.iml" />
+    </modules>
+  </component>
+</project>

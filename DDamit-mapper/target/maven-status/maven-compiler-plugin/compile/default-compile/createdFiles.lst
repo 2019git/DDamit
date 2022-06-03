@@ -1,0 +1,4 @@
+com\ddamit\mapper\entity\sys\SysUser.class
+com\ddamit\mapper\entity\sys\SysRole.class
+com\ddamit\mapper\mapper\sys\SysRoleMapper.class
+com\ddamit\mapper\mapper\sys\SysUserMapper.class

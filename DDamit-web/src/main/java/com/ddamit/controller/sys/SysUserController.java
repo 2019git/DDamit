@@ -109,4 +109,9 @@ public class SysUserController {
         ExportResponseConfig.addExportExcelResponse(response, workbook, "user");
         return new ResponseEntity<Resource>(null, null, HttpStatus.OK);
     }
+
+    @GetMapping("/testGit")
+    public Result testGit() {
+        return Result.success();
+    }
 }

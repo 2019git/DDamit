@@ -20,6 +20,7 @@ public class DdamitApplication extends SpringBootServletInitializer {
         SpringApplication.run(DdamitApplication.class,args);
     }
 
+    @Override
     public SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
         return super.configure(builder);
     }
